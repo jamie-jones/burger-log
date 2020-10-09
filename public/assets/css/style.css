@@ -1,10 +1,10 @@
 main,
 h1,
-h2 {
+h3 {
   text-align: center;
 }
 
-h2,
+h3,
 h1,
 p,
 label,
@@ -12,9 +12,13 @@ ul {
   color: white;
 }
 
+ul {
+  list-style-type: none;
+}
+
 button {
-  background-color: peru;
-  color: white;
+  background-color: peru !important;
+  color: white !important;
 }
 
 #body {

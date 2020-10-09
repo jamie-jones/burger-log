@@ -1,3 +1,22 @@
-h1 {
+main,
+h1,
+h2 {
   text-align: center;
+}
+
+h2,
+h1,
+p,
+label,
+ul {
+  color: white;
+}
+
+button {
+  background-color: peru;
+  color: white;
+}
+
+#body {
+  background-color: rgb(153, 153, 14);
 }
